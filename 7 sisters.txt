@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+<head>
+<h1> THE SEVEN SISTERS </h1>
+body {
+  background-color: blue;
+  font-family: "Helvetica", sans-serif;
+  color: orange;
+}
+h1 {
+  color: orange;
+  font-family: "algerian", serif;
+}
+<p> The Seven Sisters of India refers to the states of Arunachal Pradesh, Assam,
+ Meghalaya, Manipur, Mizoram, Nagaland, and Tripura. They are home to some
+  magnificent terrains, exotic flora and fauna, and diverse culture. </p>
